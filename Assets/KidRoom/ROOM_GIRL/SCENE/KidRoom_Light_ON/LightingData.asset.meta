@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fe56a60dc766e844b80b298e560a0561
+timeCreated: 1509028478
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/SCENE/KidRoom_Light_ON/LightingData.asset
+  uploadId: 212391

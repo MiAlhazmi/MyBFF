@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3696809c36d93ce46b08f5fcd33ad9e2
+timeCreated: 1509028442
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_Coffre.mat
+  uploadId: 212391

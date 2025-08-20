@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 73ccef5ae06e25e4c9535830a33141bc
+timeCreated: 1504779991
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_GeometricShape.mat
+  uploadId: 212391

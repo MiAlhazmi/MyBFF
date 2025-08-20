@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 63d3369a19096b341a3daeb094f91e6c
+timeCreated: 1504779989
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_Card_Painting_Globe_Lamp.mat
+  uploadId: 212391

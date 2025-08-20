@@ -1,0 +1,300 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Girl 2 Mask All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Girl 2 Mesh
+    m_Weight: 1
+  - m_Path: Root
+    m_Weight: 1
+  - m_Path: Root/Girl 2
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 L Skirt Back
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 L Skirt Front
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 L Thigh
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 L Thigh/Girl 2 L Calf
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 L Thigh/Girl 2 L Calf/Girl 2 L Foot
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 L Thigh/Girl 2 L Calf/Girl 2 L Foot/Girl
+      2 L Toe0
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 R Skirt Back
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 R Skirt Front
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 R Thigh
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 R Thigh/Girl 2 R Calf
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 R Thigh/Girl 2 R Calf/Girl 2 R Foot
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 R Thigh/Girl 2 R Calf/Girl 2 R Foot/Girl
+      2 R Toe0
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Hoodie
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Hoodie/Girl 2 Hoodie02
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger0
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger0/Girl
+      2 L Finger01
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger0/Girl
+      2 L Finger01/Girl 2 L Finger02
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger1
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger1/Girl
+      2 L Finger11
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger1/Girl
+      2 L Finger11/Girl 2 L Finger12
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger2
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger2/Girl
+      2 L Finger21
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger2/Girl
+      2 L Finger21/Girl 2 L Finger22
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger3
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger3/Girl
+      2 L Finger31
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger3/Girl
+      2 L Finger31/Girl 2 L Finger32
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger4
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger4/Girl
+      2 L Finger41
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Clavicle/Girl 2 L UpperArm/Girl 2 L Forearm/Girl 2 L Hand/Girl 2 L Finger4/Girl
+      2 L Finger41/Girl 2 L Finger42
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 L Cord
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 Jaw
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 Jaw/Girl 2 L Lower Mouth
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 Jaw/Girl 2 R Lower Mouth
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 Jaw/Girl 2 Tongue
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 Jaw/Girl 2 Tongue/Girl 2 Tongue02
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Earring
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Eye
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Eyebrow
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Hair
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Hair/Girl 2 L Hair02
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Lower Eyelid
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Ponytail
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Ponytail/Girl 2 L Ponytail02
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Ponytail/Girl 2 L Ponytail02/Girl 2 L Ponytail03
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Ponytail/Girl 2 L Ponytail02/Girl 2 L Ponytail03/Girl
+      2 L Ponytail04
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Upper Eyelid
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 L Upper Mouth
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Earring
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Eye
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Eyebrow
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Hair
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Hair/Girl 2 R Hair02
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Lower Eyelid
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Ponytail
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Ponytail/Girl 2 R Ponytail02
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Ponytail/Girl 2 R Ponytail02/Girl 2 R Ponytail03
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Ponytail/Girl 2 R Ponytail02/Girl 2 R Ponytail03/Girl
+      2 R Ponytail04
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Upper Eyelid
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Neck/Girl 2 Head/Girl 2 R Upper Mouth
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger0
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger0/Girl
+      2 R Finger01
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger0/Girl
+      2 R Finger01/Girl 2 R Finger02
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger1
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger1/Girl
+      2 R Finger11
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger1/Girl
+      2 R Finger11/Girl 2 R Finger12
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger2
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger2/Girl
+      2 R Finger21
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger2/Girl
+      2 R Finger21/Girl 2 R Finger22
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger3
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger3/Girl
+      2 R Finger31
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger3/Girl
+      2 R Finger31/Girl 2 R Finger32
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger4
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger4/Girl
+      2 R Finger41
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R Clavicle/Girl 2 R UpperArm/Girl 2 R Forearm/Girl 2 R Hand/Girl 2 R Finger4/Girl
+      2 R Finger41/Girl 2 R Finger42
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 R cord
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Scarf
+    m_Weight: 1
+  - m_Path: Root/Girl 2/Girl 2 Pelvis/Girl 2 Spine/Girl 2 Spine1/Girl 2 Spine2/Girl
+      2 Scarf/Girl 2 Scarf02
+    m_Weight: 1

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 36488291ffa155148bea19a6b6e315be
+timeCreated: 1509028439
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_Rideau.mat
+  uploadId: 212391

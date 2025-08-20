@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cbff06babcdfe174e86c761dfdead51c
+timeCreated: 1504777551
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_WoodWindow.mat
+  uploadId: 212391

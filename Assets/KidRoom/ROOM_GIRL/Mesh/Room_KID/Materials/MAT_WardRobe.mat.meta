@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5b16cd3d394df1348be6e27201cec981
+timeCreated: 1504770102
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_WardRobe.mat
+  uploadId: 212391

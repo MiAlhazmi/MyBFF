@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d933cb9123960524c8a1ee657e1a379f
+timeCreated: 1504779997
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_Neon_Orange.mat
+  uploadId: 212391

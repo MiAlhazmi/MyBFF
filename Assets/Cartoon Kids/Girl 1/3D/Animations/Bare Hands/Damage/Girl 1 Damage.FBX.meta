@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: f174a4a02c7df014d8790b4ccf0b0669
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Girl 1 Damage
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Girl Mesh
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/Girl 1
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 L Skirt Back
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 L Skirt Front
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 L Thigh
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 L Thigh/Girl 1 L Calf
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 L Thigh/Girl 1 L Calf/Girl 1 L Foot
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 L Thigh/Girl 1 L Calf/Girl 1 L Foot/Girl
+          1 L Toe0
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 R Skirt Back
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 R Skirt Front
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 R Thigh
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 R Thigh/Girl 1 R Calf
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 R Thigh/Girl 1 R Calf/Girl 1 R Foot
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 R Thigh/Girl 1 R Calf/Girl 1 R Foot/Girl
+          1 R Toe0
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger0
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger0/Girl 1 L Finger01
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger0/Girl 1 L Finger01/Girl 1 L Finger02
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger1
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger1/Girl 1 L Finger11
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger1/Girl 1 L Finger11/Girl 1 L Finger12
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger2
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger2/Girl 1 L Finger21
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger2/Girl 1 L Finger21/Girl 1 L Finger22
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger3
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger3/Girl 1 L Finger31
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger3/Girl 1 L Finger31/Girl 1 L Finger32
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger4
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger4/Girl 1 L Finger41
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 L Clavicle/Girl 1 L UpperArm/Girl 1 L Forearm/Girl 1 L Hand/Girl 1 L
+          Finger4/Girl 1 L Finger41/Girl 1 L Finger42
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck/Girl 1 Head
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck/Girl 1 Head/Girl 1 Hair Back
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck/Girl 1 Head/Girl 1 Hair Back/Girl 1 Hair Back02
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck/Girl 1 Head/Girl 1 Hair Front
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck/Girl 1 Head/Girl 1 Hat
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck/Girl 1 Head/Girl 1 Jaw
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck/Girl 1 Head/Girl 1 L Eye
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck/Girl 1 Head/Girl 1 L Hair
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck/Girl 1 Head/Girl 1 R Eye
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 Neck/Girl 1 Head/Girl 1 R Hair
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger0
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger0/Girl 1 R Finger01
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger0/Girl 1 R Finger01/Girl 1 R Finger02
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger1
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger1/Girl 1 R Finger11
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger1/Girl 1 R Finger11/Girl 1 R Finger12
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger2
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger2/Girl 1 R Finger21
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger2/Girl 1 R Finger21/Girl 1 R Finger22
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger3
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger3/Girl 1 R Finger31
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger3/Girl 1 R Finger31/Girl 1 R Finger32
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger4
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger4/Girl 1 R Finger41
+        weight: 1
+      - path: Root/Girl 1/Girl 1 Pelvis/Girl 1 Spine/Girl 1 Spine1/Girl 1 Spine2/Girl
+          1 R Clavicle/Girl 1 R UpperArm/Girl 1 R Forearm/Girl 1 R Hand/Girl 1 R
+          Finger4/Girl 1 R Finger41/Girl 1 R Finger42
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: 43fdb168106355042a7b9f8d27c8a28d, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Girl 1 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Girl 1 Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Girl 1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.0000005158395, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Girl Mesh
+      parentName: Girl 1(Clone)
+      position: {x: 0.0000000017191386, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: Girl 1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Girl 1
+      parentName: Root
+      position: {x: -0, y: -0.015655058, z: 0.5369797}
+      rotation: {x: 0, y: 0, z: 0.7071063, w: 0.70710725}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Girl 1 Pelvis
+      parentName: Girl 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Girl 1 L Skirt Back
+      parentName: Girl 1 Pelvis
+      position: {x: -0.009262047, y: -0.07689685, z: 0.10723868}
+      rotation: {x: -0.00000041723246, y: 0.0000004768371, z: 0.95063686, w: 0.31030574}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Girl 1 L Skirt Front
+      parentName: Girl 1 Pelvis
+      position: {x: 0.013119087, y: 0.05307394, z: 0.108395845}
+      rotation: {x: 0.00000005960465, y: 0.00000017881396, z: -0.98861456, w: 0.15047033}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Girl 1 L Thigh
+      parentName: Girl 1 Pelvis
+      position: {x: 0.000000114440915, y: 0.00000012516975, z: 0.07323156}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000005}
+    - name: Girl 1 L Calf
+      parentName: Girl 1 L Thigh
+      position: {x: -0.22637308, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+    - name: Girl 1 L Foot
+      parentName: Girl 1 L Calf
+      position: {x: -0.22077712, y: 0, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Girl 1 L Toe0
+      parentName: Girl 1 L Foot
+      position: {x: -0.08500287, y: 0.109395005, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Girl 1 R Skirt Back
+      parentName: Girl 1 Pelvis
+      position: {x: -0.009262351, y: -0.076897144, z: -0.10723845}
+      rotation: {x: -0.00000041723246, y: 0.0000004768371, z: 0.95063686, w: 0.31030574}
+      scale: {x: 1.0000001, y: 0.9999997, z: 1}
+    - name: Girl 1 R Skirt Front
+      parentName: Girl 1 Pelvis
+      position: {x: 0.013118744, y: 0.053073645, z: -0.10839603}
+      rotation: {x: 0.00000005960465, y: 0.00000017881396, z: -0.98861456, w: 0.15047033}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000002}
+    - name: Girl 1 R Thigh
+      parentName: Girl 1 Pelvis
+      position: {x: -0.000000114440915, y: -0.000000077486035, z: -0.07323156}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: Girl 1 R Calf
+      parentName: Girl 1 R Thigh
+      position: {x: -0.22637308, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Girl 1 R Foot
+      parentName: Girl 1 R Calf
+      position: {x: -0.22077712, y: -0.000000009536743, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 0.9999998}
+    - name: Girl 1 R Toe0
+      parentName: Girl 1 R Foot
+      position: {x: -0.08500286, y: 0.10939499, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000005}
+    - name: Girl 1 Spine
+      parentName: Girl 1 Pelvis
+      position: {x: -0.059621885, y: -0.00007153034, z: 0.00000008278279}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Girl 1 Spine1
+      parentName: Girl 1 Spine
+      position: {x: -0.089857176, y: -0.00007114768, z: -1.973376e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: Girl 1 Spine2
+      parentName: Girl 1 Spine1
+      position: {x: -0.0898539, y: -0.00007071495, z: -1.9612344e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+    - name: Girl 1 L Clavicle
+      parentName: Girl 1 Spine2
+      position: {x: -0.069694445, y: -0.03928276, z: 0.024994886}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000006}
+    - name: Girl 1 L UpperArm
+      parentName: Girl 1 L Clavicle
+      position: {x: -0.11944104, y: 0.000000019073486, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: Girl 1 L Forearm
+      parentName: Girl 1 L UpperArm
+      position: {x: -0.15553531, y: 0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: Girl 1 L Hand
+      parentName: Girl 1 L Forearm
+      position: {x: -0.13889067, y: -0.000000019073486, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1.0000001, y: 1.0000008, z: 1.000001}
+    - name: Girl 1 L Finger0
+      parentName: Girl 1 L Hand
+      position: {x: -0.03356678, y: 0.0075289914, z: -0.020712595}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 1, y: 0.9999998, z: 1.0000002}
+    - name: Girl 1 L Finger01
+      parentName: Girl 1 L Finger0
+      position: {x: -0.038303792, y: 0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 0.9999996, z: 1.0000004}
+    - name: Girl 1 L Finger02
+      parentName: Girl 1 L Finger01
+      position: {x: -0.02978157, y: -0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 0.99999994, z: 1}
+    - name: Girl 1 L Finger1
+      parentName: Girl 1 L Hand
+      position: {x: -0.11315593, y: -0.004391785, z: -0.03283911}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: Girl 1 L Finger11
+      parentName: Girl 1 L Finger1
+      position: {x: -0.02300167, y: 0.000000076293944, z: -0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1}
+    - name: Girl 1 L Finger12
+      parentName: Girl 1 L Finger11
+      position: {x: -0.019693984, y: 0.000000038146972, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000004}
+    - name: Girl 1 L Finger2
+      parentName: Girl 1 L Hand
+      position: {x: -0.11773662, y: -0.0008145904, z: -0.0062789726}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.99999994}
+    - name: Girl 1 L Finger21
+      parentName: Girl 1 L Finger2
+      position: {x: -0.02240097, y: 0, z: 0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000004}
+    - name: Girl 1 L Finger22
+      parentName: Girl 1 L Finger21
+      position: {x: -0.025385933, y: 0, z: 0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000001}
+    - name: Girl 1 L Finger3
+      parentName: Girl 1 L Hand
+      position: {x: -0.11243686, y: 0.0045873257, z: 0.019898815}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000005, z: 0.9999998}
+    - name: Girl 1 L Finger31
+      parentName: Girl 1 L Finger3
+      position: {x: -0.023215255, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000005}
+    - name: Girl 1 L Finger32
+      parentName: Girl 1 L Finger31
+      position: {x: -0.023711357, y: 0.000000114440915, z: -0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: Girl 1 L Finger4
+      parentName: Girl 1 L Hand
+      position: {x: -0.100739054, y: 0.012273941, z: 0.036501005}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1.0000002}
+    - name: Girl 1 L Finger41
+      parentName: Girl 1 L Finger4
+      position: {x: -0.018370781, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999996, y: 1, z: 1.0000002}
+    - name: Girl 1 L Finger42
+      parentName: Girl 1 L Finger41
+      position: {x: -0.017089386, y: -0.000000076293944, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: Girl 1 Neck
+      parentName: Girl 1 Spine2
+      position: {x: -0.089885555, y: -0.000052318574, z: -1.4511897e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: Girl 1 Head
+      parentName: Girl 1 Neck
+      position: {x: -0.07067344, y: 0, z: -3.6379787e-14}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Girl 1 Hair Back
+      parentName: Girl 1 Head
+      position: {x: -0.05023018, y: -0.11944783, z: -0.0009045479}
+      rotation: {x: -0.00000011920926, y: 0.00000011920926, z: 0.9723549, w: 0.23350805}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: Girl 1 Hair Back02
+      parentName: Girl 1 Hair Back
+      position: {x: -0.19074675, y: -0.00018878936, z: -5.2154064e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Girl 1 Hair Front
+      parentName: Girl 1 Head
+      position: {x: -0.25735214, y: 0.17058955, z: 0.000359453}
+      rotation: {x: 0.000000119209275, y: -0, z: -0.9430752, w: 0.33257958}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: Girl 1 Hat
+      parentName: Girl 1 Head
+      position: {x: -0.21095848, y: -0.08347414, z: -0.0023103282}
+      rotation: {x: -0.00000013411044, y: -0.000000104308114, z: 0.61112964, w: 0.79153055}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Girl 1 Jaw
+      parentName: Girl 1 Head
+      position: {x: -0.05843681, y: 0.03929933, z: 0.00000005353829}
+      rotation: {x: -0.0000002682209, y: -0.0000008046627, z: -0.8778232, w: 0.478985}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000002}
+    - name: Girl 1 L Eye
+      parentName: Girl 1 Head
+      position: {x: -0.115897976, y: 0.1045951, z: 0.0665017}
+      rotation: {x: -0.00000005960463, y: 0.00000005960463, z: -0.742267, w: 0.67010415}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000005}
+    - name: Girl 1 L Hair
+      parentName: Girl 1 Head
+      position: {x: -0.06450378, y: 0.08970739, z: 0.18648338}
+      rotation: {x: 0.000000059604645, y: -0.00000023841858, z: -0.9992919, w: 0.037626714}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000004}
+    - name: Girl 1 R Eye
+      parentName: Girl 1 Head
+      position: {x: -0.115897976, y: 0.104595505, z: -0.06650112}
+      rotation: {x: -0.00000005960463, y: 0.00000005960463, z: -0.742267, w: 0.67010415}
+      scale: {x: 1, y: 1.0000005, z: 1.0000001}
+    - name: Girl 1 R Hair
+      parentName: Girl 1 Head
+      position: {x: -0.06450378, y: 0.089708425, z: -0.18648292}
+      rotation: {x: 0.000000059604645, y: -0.00000023841858, z: -0.9992919, w: 0.037626714}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Girl 1 R Clavicle
+      parentName: Girl 1 Spine2
+      position: {x: -0.069694445, y: -0.03928261, z: -0.0249951}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000002}
+    - name: Girl 1 R UpperArm
+      parentName: Girl 1 R Clavicle
+      position: {x: -0.11944102, y: 0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000005}
+    - name: Girl 1 R Forearm
+      parentName: Girl 1 R UpperArm
+      position: {x: -0.15553528, y: 0, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000002}
+    - name: Girl 1 R Hand
+      parentName: Girl 1 R Forearm
+      position: {x: -0.1388907, y: -0.000000019073486, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000002}
+    - name: Girl 1 R Finger0
+      parentName: Girl 1 R Hand
+      position: {x: -0.03356678, y: 0.0075289914, z: 0.020712633}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Girl 1 R Finger01
+      parentName: Girl 1 R Finger0
+      position: {x: -0.038303792, y: 0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
+    - name: Girl 1 R Finger02
+      parentName: Girl 1 R Finger01
+      position: {x: -0.02978157, y: -0.000000009536743, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: Girl 1 R Finger1
+      parentName: Girl 1 R Hand
+      position: {x: -0.11315593, y: -0.004391785, z: 0.032839127}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999997}
+    - name: Girl 1 R Finger11
+      parentName: Girl 1 R Finger1
+      position: {x: -0.02300167, y: 0.000000076293944, z: 0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: Girl 1 R Finger12
+      parentName: Girl 1 R Finger11
+      position: {x: -0.019694023, y: -0.000000038146972, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.9999997}
+    - name: Girl 1 R Finger2
+      parentName: Girl 1 R Hand
+      position: {x: -0.117736585, y: -0.0008145904, z: 0.006279001}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: Girl 1 R Finger21
+      parentName: Girl 1 R Finger2
+      position: {x: -0.02240097, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999994}
+    - name: Girl 1 R Finger22
+      parentName: Girl 1 R Finger21
+      position: {x: -0.02538601, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: Girl 1 R Finger3
+      parentName: Girl 1 R Hand
+      position: {x: -0.11243686, y: 0.0045873257, z: -0.019898796}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: Girl 1 R Finger31
+      parentName: Girl 1 R Finger3
+      position: {x: -0.023215255, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: Girl 1 R Finger32
+      parentName: Girl 1 R Finger31
+      position: {x: -0.023711357, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Girl 1 R Finger4
+      parentName: Girl 1 R Hand
+      position: {x: -0.10073902, y: 0.012273941, z: -0.036500987}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Girl 1 R Finger41
+      parentName: Girl 1 R Finger4
+      position: {x: -0.018370818, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Girl 1 R Finger42
+      parentName: Girl 1 R Finger41
+      position: {x: -0.017089425, y: 0.000000038146972, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 3921ce2e1b800cd4eaed62b832420a0e,
+    type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217164
+  packageName: Cartoon Kids (3 characters)
+  packageVersion: 1.25
+  assetPath: Assets/Cartoon Kids/Girl 1/3D/Animations/Bare Hands/Damage/Girl 1 Damage.FBX
+  uploadId: 727059

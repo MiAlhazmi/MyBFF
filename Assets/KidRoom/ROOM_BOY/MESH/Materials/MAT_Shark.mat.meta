@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f634beb2b6c36d7479082f2d145037d4
+timeCreated: 1504779997
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_Shark.mat
+  uploadId: 212391

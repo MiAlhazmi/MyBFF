@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c77c7493f3fee24086f4390ce16b31f
+timeCreated: 1504774808
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_UnicornBIG.mat
+  uploadId: 212391

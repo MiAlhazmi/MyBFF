@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5cf9a9dac2ac4a24fa17a06a711d859e
+timeCreated: 1504770101
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_Glass.mat
+  uploadId: 212391

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d3785d303c56874083de3fd60e9ccaa
+timeCreated: 1504770095
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_WalFrame.mat
+  uploadId: 212391

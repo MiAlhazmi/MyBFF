@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4e0768e022865cb4695ac14310aead28
+timeCreated: 1509028980
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/Pirate_Kid'sRoom/LightingData.asset
+  uploadId: 212391

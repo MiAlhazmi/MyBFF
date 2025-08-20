@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 36fcfbab147f12240bbb39018e4273a6
+timeCreated: 1504770098
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_Garlande.mat
+  uploadId: 212391

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9e7ba7aa1e9d1684e83bb06586c97939
+timeCreated: 1504786736
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_WallShelf_Boy.mat
+  uploadId: 212391

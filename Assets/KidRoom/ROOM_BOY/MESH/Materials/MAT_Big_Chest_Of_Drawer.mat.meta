@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b23a0ba3583867349a25b103e75f5d7c
+timeCreated: 1504779992
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_Big_Chest_Of_Drawer.mat
+  uploadId: 212391

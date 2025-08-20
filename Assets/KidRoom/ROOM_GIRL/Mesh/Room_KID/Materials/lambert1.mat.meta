@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 48c829c8f4bfe7d46b7936ec48b1b2d8
+timeCreated: 1509028439
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/lambert1.mat
+  uploadId: 212391

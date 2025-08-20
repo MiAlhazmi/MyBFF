@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a27e979b0f52b8343b559afd484df203
+timeCreated: 1504779987
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_Octopus_ShelfCube_ShelfStair_Bin_ToySword_BoxWoodPieces_WoodPiece_WallLampBlue_CoatRack.mat
+  uploadId: 212391

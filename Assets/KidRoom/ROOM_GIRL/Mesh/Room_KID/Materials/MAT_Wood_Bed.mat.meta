@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da111983976bd50468908d9ecbf137ab
+timeCreated: 1504770092
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_Wood_Bed.mat
+  uploadId: 212391

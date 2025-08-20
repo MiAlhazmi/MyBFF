@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e4a2e0d0bed5df449a101f4b85c44566
+timeCreated: 1504779993
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_LightSwitch.mat
+  uploadId: 212391

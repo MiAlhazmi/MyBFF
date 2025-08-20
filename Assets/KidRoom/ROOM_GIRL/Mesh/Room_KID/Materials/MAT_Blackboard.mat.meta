@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a47d8ddb0e23e2043b0a7540cb3e6670
+timeCreated: 1504770089
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_Blackboard.mat
+  uploadId: 212391

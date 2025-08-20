@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 44ab67541d716e449aa0ce61ffd5db87
+timeCreated: 1509028446
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_LIGHTS.mat
+  uploadId: 212391

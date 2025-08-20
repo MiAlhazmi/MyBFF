@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 40b0b6f077b9be84a98c653bfa180964
+timeCreated: 1504788776
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_LightBlob OFF.mat
+  uploadId: 212391

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f6cf8a5fad5d97d4d8c3bf0e472cfa3c
+timeCreated: 1509028445
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_Poney.mat
+  uploadId: 212391

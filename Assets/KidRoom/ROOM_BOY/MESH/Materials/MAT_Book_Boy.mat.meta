@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f08f11273181ba645add97af4a417ff7
+timeCreated: 1504786996
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_Book_Boy.mat
+  uploadId: 212391

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3977b999706407e49844ce4742c14cdb
+timeCreated: 1509028448
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_BOTTE.mat
+  uploadId: 212391

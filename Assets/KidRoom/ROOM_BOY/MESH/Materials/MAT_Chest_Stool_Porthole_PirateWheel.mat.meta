@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c81a25a3fe7cf424cb0e3a48787c072c
+timeCreated: 1504779988
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_Chest_Stool_Porthole_PirateWheel.mat
+  uploadId: 212391

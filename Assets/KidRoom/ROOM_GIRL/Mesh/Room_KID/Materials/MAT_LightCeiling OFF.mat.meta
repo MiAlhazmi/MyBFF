@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 442c519196db2d64eb89f42f509fb1f0
+timeCreated: 1504779993
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_LightCeiling OFF.mat
+  uploadId: 212391

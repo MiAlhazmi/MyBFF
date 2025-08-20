@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 259e123f0e4a68940b2ea9e7547d22ef
+timeCreated: 1503068102
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/PostProcessing/Post_FX.asset
+  uploadId: 212391

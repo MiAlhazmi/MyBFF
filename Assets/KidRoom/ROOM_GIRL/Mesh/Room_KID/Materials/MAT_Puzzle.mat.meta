@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed3c7665cb9cdbe4295549ee1a9e6366
+timeCreated: 1504788815
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_GIRL/Mesh/Room_KID/Materials/MAT_Puzzle.mat
+  uploadId: 212391

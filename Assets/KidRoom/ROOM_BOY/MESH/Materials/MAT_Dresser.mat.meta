@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7c04cc51f061d742ab1ee1812b4fda9
+timeCreated: 1504779987
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99887
+  packageName: Kid Room
+  packageVersion: 1.0
+  assetPath: Assets/KidRoom/ROOM_BOY/MESH/Materials/MAT_Dresser.mat
+  uploadId: 212391
