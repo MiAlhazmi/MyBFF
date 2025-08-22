@@ -108,7 +108,9 @@ namespace MyBFF.Voice
                 Log("Conversation already active or transitioning.");
                 return;
             }
-            
+            IsActive = true;  
+            Log("Conversation started successfully!");
+
             StartCoroutine(BeginConversationCoroutine());
         }
         
@@ -296,10 +298,15 @@ namespace MyBFF.Voice
         /// <param name="audioData">PCM audio data from agent</param>
         private void OnAgentAudioReceived(float[] audioData)
         {
+            Debug.Log($"[ConversationManager] OnAgentAudioReceived called with {audioData?.Length ?? 0} samples");
             if (IsActive)
             {
                 audioStreamer.PlayAudioData(audioData);
                 Log($"Playing agent audio: {audioData.Length} samples");
+            }
+            else
+            {
+                Debug.Log("[ConversationManager] Not active, ignoring audio");
             }
         }
         

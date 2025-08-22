@@ -22,4 +22,4 @@ MonoBehaviour:
   useAudioCompression: 0
   audioQuality: 0.8
   enableDebugLogging: 1
-  logAudioChunks: 0
+  logAudioChunks: 1

@@ -441,31 +441,31 @@ namespace MyBFF.Voice
         {
             try
             {
-                // Extract base64 audio data from JSON
-                // Note: In production, use proper JSON parsing
-                string searchString = "\"audio\":\"";
+                // Look for the correct key: "audio_base_64" inside "audio_event"
+                string searchString = "\"audio_base_64\":\"";
                 int startIndex = messageJson.IndexOf(searchString);
-                if (startIndex == -1) return;
-                
+                if (startIndex == -1) 
+                {
+                    Log("No audio_base_64 found in message");
+                    return;
+                }
+        
                 startIndex += searchString.Length;
                 int endIndex = messageJson.IndexOf("\"", startIndex);
                 if (endIndex == -1) return;
-                
+        
                 string base64Audio = messageJson.Substring(startIndex, endIndex - startIndex);
-                
+        
                 // Decode base64 to PCM bytes
                 byte[] pcmBytes = Convert.FromBase64String(base64Audio);
-                
+        
                 // Convert PCM bytes to float array
                 float[] pcmFloats = ConvertPCM16ToFloat(pcmBytes);
-                
+        
                 // Send to audio streamer for playback
                 OnAudioReceived?.Invoke(pcmFloats);
-                
-                if (config.LogAudioChunks)
-                {
-                    Log($"Audio received: {pcmBytes.Length} bytes -> {pcmFloats.Length} samples");
-                }
+        
+                Debug.Log($"[ElevenLabsWebSocket] Audio event fired: {pcmFloats.Length} samples");
             }
             catch (Exception e)
             {
@@ -565,23 +565,16 @@ namespace MyBFF.Voice
             while (outgoingAudioChunks.Count > 0 && webSocket != null)
             {
                 byte[] audioChunk = outgoingAudioChunks.Dequeue();
-                
+        
                 try
                 {
-                    // Send audio message using NativeWebSocket (synchronous)
-                    string base64Audio = Encoding.UTF8.GetString(audioChunk);
-                    var audioMessage = new
-                    {
-                        user_audio_chunk = base64Audio
-                    };
-                    
+                    string base64Audio = System.Text.Encoding.UTF8.GetString(audioChunk);
+            
+                    // Use the EXACT format from working code
+                    var audioMessage = new { user_audio_chunk = base64Audio };
+            
                     string messageJson = JsonUtility.ToJson(audioMessage);
                     webSocket.SendText(messageJson);
-                    
-                    if (config.LogAudioChunks)
-                    {
-                        Log($"Audio chunk sent: {base64Audio.Length} characters");
-                    }
                 }
                 catch (Exception e)
                 {

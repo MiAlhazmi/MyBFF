@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 namespace MyBFF.Voice
@@ -9,6 +10,13 @@ namespace MyBFF.Voice
         public bool autoStartOnEnter = true;
         public bool autoStopOnExit = true;
 
+        private ElevenLabsVoiceChat voiceChat;
+
+        private void Awake()
+        {
+            voiceChat = FindObjectOfType<ElevenLabsVoiceChat>();
+        }
+
         void Reset()
         {
             var col = GetComponent<Collider>();
@@ -18,13 +26,15 @@ namespace MyBFF.Voice
         void OnTriggerEnter(Collider other)
         {
             if (!other.CompareTag(playerTag)) return;
-            if (autoStartOnEnter) ConversationManager.Instance?.BeginConversation();
+            if (autoStartOnEnter) voiceChat.StartConversation();
+            // if (autoStartOnEnter) ConversationManager.Instance?.BeginConversation();
         }
 
         void OnTriggerExit(Collider other)
         {
             if (!other.CompareTag(playerTag)) return;
-            if (autoStopOnExit) ConversationManager.Instance?.EndConversation();
+            if (autoStopOnExit) voiceChat.StopConversation();
+            // if (autoStopOnExit) ConversationManager.Instance?.EndConversation();
         }
     }
 }

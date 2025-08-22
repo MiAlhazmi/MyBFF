@@ -149,6 +149,8 @@ namespace MyBFF.Voice
         /// <param name="pcmData">PCM audio data from ElevenLabs</param>
         public void PlayAudioData(float[] pcmData)
         {
+            Debug.Log($"[AudioStreamer] PlayAudioData called with {pcmData?.Length ?? 0} samples");
+            
             if (pcmData == null || pcmData.Length == 0)
             {
                 LogError("Invalid audio data received!");
