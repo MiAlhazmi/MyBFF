@@ -184,13 +184,21 @@ namespace MyBFF.Voice
                 
                 if (isConnected)
                 {
+                    // Get userId and send conversation initiation
+                    string userId = UserIdManager.GetUserId();
+                    Debug.Log(userId);
                     // Send conversation initiation
                     SendJsonMessage(new
                     {
                         type = "conversation_initiation_client_data",
+                        user_id = userId, // Try at root level
                         conversation_config_override = new
                         {
                             agent = new { language = "en" }
+                        },
+                        dynamic_variables = new
+                        {
+                            user_id = userId
                         }
                     });
                     
@@ -328,35 +336,53 @@ namespace MyBFF.Voice
             }
         }
         
+        private void HandleConversationInitiationMetadata(Dictionary<string, object> message)
+        {
+            if (message.TryGetValue("conversation_initiation_metadata_event", out object metadataEventObj) &&
+                metadataEventObj is Dictionary<string, object> metadataEvent &&
+                metadataEvent.TryGetValue("conversation_id", out object conversationIdObj))
+            {
+                string conversationId = conversationIdObj as string;
+                Log($"Conversation initialized successfully with ID: {conversationId}");
+        
+                // The conversation is now properly initialized
+                // This is where you'd know the userId was received
+            }
+        }
+        
         private void HandleWebSocketMessage(string jsonMessage)
         {
             try
             {
                 Dictionary<string, object> message = MiniJson.Deserialize(jsonMessage) as Dictionary<string, object>;
                 if (message == null) return;
-                
+        
                 if (message.TryGetValue("type", out object typeObj))
                 {
                     string messageType = typeObj as string;
-                    
+            
                     switch (messageType)
                     {
                         case "ping":
                             HandlePingMessage(message);
                             break;
-                            
+                    
+                        case "conversation_initiation_metadata":
+                            HandleConversationInitiationMetadata(message);
+                            break;
+                    
                         case "audio":
                             HandleAudioMessage(message);
                             break;
-                            
+                    
                         case "agent_response":
                             HandleAgentResponseMessage(message);
                             break;
-                            
+                    
                         case "user_transcript":
                             HandleUserTranscriptMessage(message);
                             break;
-                            
+                    
                         default:
                             if (enableDebugLogging)
                                 Log($"Unknown message type: {messageType}");
